@@ -1,0 +1,2 @@
+# Mycry
+a.javascript project
